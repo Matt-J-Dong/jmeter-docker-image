@@ -10,13 +10,6 @@ Find Images of this repo on [Docker Hub](https://hub.docker.com/r/justb4/jmeter)
 Starting version 5.4 Docker builds/pushes 
 are [executed via GitHub Workflows](.github/workflows/docker.yml).
 
-## Donate
-With **over 10 Million Pulls from DockerHub**, this Docker Image is increasingly popular.
-To support its active maintainance consider making a donation, for example via PayPal:
-
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/biz/fund?id=3QZW9SNGCWBM4)
-
-
 ## Security Patches
 As you may have seen in the news, a new zero-day exploit has been reported against the 
 popular Log4J2 library which can allow an attacker to remotely execute code. 
